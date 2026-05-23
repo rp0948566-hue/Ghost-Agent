@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="https://static.prod-images.emergentagent.com/jobs/7261eef5-19ac-4ead-bf6e-9ccdda9b12f7/images/12a0ccf02586ece0fe5ec22e84f4489041b9ea364a93465ba16d75e906cbd2a2.png" width="100%" alt="Ghost-Agent Banner"/>
 </p>
 
